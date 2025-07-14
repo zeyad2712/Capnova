@@ -30,73 +30,73 @@
                     <ul class="about-one__points list-unstyled">
                         <li>
                             <div class="icon">
-                                <img src="assets/images/shapes/section-title-tagline-shape.png" width="50" height="40"
-                                    alt="">
+                                <img src="assets/images/shapes/disinfection.png" width="80" height="70" alt="">
                             </div>
-                            <p><strong>Healthcare-grade disinfection</strong> - Safe for occupied spaces with 99.9%
+                            <p><strong>Healthcare-grade disinfection</strong> -Safe for occupied spaces with 99.9%
                                 pathogen reduction</p>
                         </li>
                         <li>
                             <div class="icon">
-                                <img src="assets/images/shapes/section-title-tagline-shape.png" width="50" height="40"
-                                    alt="">
+                                <img src="assets/images/shapes/non-toxic.png" width="60" height="55" alt="">
                             </div>
                             <p><strong>Chemical-free solutions</strong> - Eliminating harmful residues while maintaining
                                 efficacy</p>
                         </li>
                         <li>
                             <div class="icon">
-                                <img src="assets/images/shapes/section-title-tagline-shape.png" width="50" height="40"
-                                    alt="">
+                                <img src="assets/images/shapes/sustainable-energy.png" width="60" height="60" alt="">
                             </div>
                             <p><strong>Sustainable technology</strong> - Energy-efficient systems with minimal
                                 environmental impact</p>
                         </li>
                     </ul>
 
-                    <div class="about-one__solutions">
-                        <h3 class="about-one__solutions-title">Our Core Solutions:</h3>
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="solution-box">
-                                    <div class="solution-icon">
-                                        <span class="icon-hospital"></span>
-                                    </div>
-                                    <h4>Healthcare</h4>
-                                    <p>Patient rooms, ORs, ambulances</p>
-                                </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-stretch wow fadeInRight" data-wow-delay="300ms">
+            <div class="about-one__solutions">
+                <h3 class="about-one__solutions-title">Our Core Solutions:</h3>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="solution-box">
+                            <div class="solution-icon">
+                                <span class="icon-hospital"></span>
                             </div>
-                            <div class="col-md-4">
-                                <div class="solution-box">
-                                    <div class="solution-icon">
-                                        <span class="icon-restaurant"></span>
-                                    </div>
-                                    <h4>Food Industry</h4>
-                                    <p>Processing, packaging, dining</p>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="solution-box">
-                                    <div class="solution-icon">
-                                        <span class="icon-farm"></span>
-                                    </div>
-                                    <h4>Agriculture</h4>
-                                    <p>Livestock, poultry, crops</p>
-                                </div>
-                            </div>
+                            <h4>Healthcare</h4>
+                            <p>Patient rooms, ORs, ambulances</p>
                         </div>
                     </div>
-
-                    <p class="about-one__text">Our patented UV222™ technology is scientifically proven to be safe for
-                        humans while effectively inactivating pathogens. Backed by rigorous research and clinical
-                        studies, we're setting new standards in continuous disinfection.</p>
-
-                    <div class="about-one__btn-box">
-                        <a href="#products" class="about-one__btn thm-btn">Explore Our Products</a>
-                        <a href="#contact" class="about-one__btn thm-btn about-one__btn--secondary">Request
-                            Consultation</a>
+                    <div class="col-md-4">
+                        <div class="solution-box">
+                            <div class="solution-icon">
+                                <span class="icon-restaurant"></span>
+                            </div>
+                            <h4>Food Industry</h4>
+                            <p>Processing, packaging, dining</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="solution-box">
+                            <div class="solution-icon">
+                                <span class="icon-farm"></span>
+                            </div>
+                            <h4>Agriculture</h4>
+                            <p>Livestock, poultry, crops</p>
+                        </div>
                     </div>
                 </div>
+            </div>
+
+            <p class="about-one__text">Our patented UV222™ technology is scientifically proven to be safe for
+                humans while effectively inactivating pathogens. Backed by rigorous research and clinical
+                studies, we're setting new standards in continuous disinfection.</p>
+
+            <div class="about-one__btn-box">
+                <a href="#products" class="about-one__btn thm-btn">Explore Our Products</a>
+                <a href="#contact" class="about-one__btn thm-btn about-one__btn--secondary">Request
+                    Consultation</a>
             </div>
         </div>
     </div>
