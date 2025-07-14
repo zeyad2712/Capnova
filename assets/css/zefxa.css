@@ -3802,7 +3802,7 @@ ul {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 5px;
 }
 
 .about-one__points li::before {
@@ -3825,11 +3825,10 @@ ul {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 106px;
+  width: 100px;
   height: 60px;
   padding: 5px;
   border-radius: 50%;
-
 }
 
 .about-one__points li .icon>span {

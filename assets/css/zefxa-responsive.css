@@ -418,9 +418,22 @@
         margin: 0 auto;
     }
 
+    .about-one__solutions {
+        text-align: center;
+    }
+
+    .about-one__text {
+        text-align: center;
+    }
+
     .about-one__right {
         max-width: 600px;
         margin: 50px auto 0;
+    }
+
+    .about-one__btn-box {
+        text-align: center;
+        margin-top: 5px;
     }
 
     .about-one__points li h4 {
@@ -792,6 +805,19 @@
         margin-top: 50px;
     }
 
+    .about-one__solutions {
+        text-align: center;
+    }
+
+    .about-one__text {
+        text-align: center;
+    }
+
+    .about-one__btn-box {
+        text-align: center;
+        margin-top: 5px;
+    }
+
     .about-one__big-text {
         font-size: 20px;
         line-height: 30px;
@@ -805,7 +831,9 @@
     }
 
     .about-one__points li .icon {
-        top: -30px;
+        top: -10px;
+        padding: 0;
+
     }
 
     .about-one__points li::before {
@@ -1987,7 +2015,7 @@
         flex: 1;
     }
 
-    
+
 
 
 
