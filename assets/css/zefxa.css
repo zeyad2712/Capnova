@@ -300,13 +300,17 @@ ul {
   width: 100%;
 }
 
+.solution-box {
+  margin-bottom: 15px;
+}
+
 .section-title__tagline {
   position: relative;
   display: inline-block;
-  font-size: 16px;
+  font-size: 19px;
   line-height: 17px;
   color: var(--zefxa-base);
-  font-weight: 500;
+  font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: capitalize;
 }
@@ -402,7 +406,7 @@ ul {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url(../images/loader.png);
+  background-image: url(../images/shapes/section-title-tagline-shape.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px auto;
@@ -2723,7 +2727,7 @@ ul {
 }
 
 .main-slider__title span {
-  color: var(--zefxa-base);
+  color: #ff782f;
 }
 
 .main-slider .swiper-slide-active .main-slider__title {

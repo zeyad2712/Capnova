@@ -369,7 +369,7 @@
 
 
     .product-card {
-        height: 720px;
+        height: fit-content;
     }
 
 
@@ -739,12 +739,8 @@
     }
 
     .product-card {
-        height: 720px;
+        height: fit-content;
     }
-
-
-
-
 
 
 
@@ -795,6 +791,10 @@
         font-size: 26px;
         line-height: 36px;
     }
+
+    /* .main-slider__shape-1 img{
+        display: inline;
+    } */
 
     .about-one__left {
         margin-right: 0;
@@ -1466,7 +1466,7 @@
     }
 
     .product-card {
-        height: 720px;
+        height: fit-content;
     }
 
 
@@ -1777,7 +1777,7 @@
     }
 
     .product-card {
-        height: 720px;
+        height: fit-content;
     }
 
 
