@@ -94,7 +94,6 @@
                 studies, we're setting new standards in continuous disinfection.</p>
 
             <div class="about-one__btn-box">
-                <a href="#products" class="about-one__btn thm-btn">Explore Our Products</a>
                 <a href="#contact" class="about-one__btn thm-btn about-one__btn--secondary">Request
                     Consultation</a>
             </div>
